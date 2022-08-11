@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 👯 I’m looking to collaborate on **Javascript and React**
+- 👯 I’m looking to collaborate on **Javascript and React**<br>
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript**<br>
 
 - 📫 How to reach me **erdogann.mustafaaa@gmail.com**
 
