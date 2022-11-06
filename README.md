@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Javascript and React**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, React**
+- 💬 Ask me about **HTML, CSS, Bootstrap,Tailwind CSS , Javascript, React **
 
 - 📫 How to reach me **erdogann.mustafaaa@gmail.com**
 
